@@ -1,0 +1,16 @@
+2 Data
+  1 Data Sources
+  To acquire the housing price around target metropolitan, the prices data based on neighborhood from Zillow was utilized targetting
+  for 1 bedroom 1 bathroom apartment purchase. The home price increasing data was also accquired from Zillow. On the other aspect, 
+  venue data was requested from Foursquare for the estimate of neighborhood venues.
+  2 Data cleaning
+  After downloading data from Zillow data website https://www.zillow.com/research/data/, only interested data of 
+  Minneapolis-St. Paul-Bloomington metropolitan were kept for following analysis.
+  On Zillow housing data sets, there're some neighborhoods of which either housing prices or value increasing data are not shown.
+  For the accuracy of the analysis, such data lacking neighborhoods were excluded that unknown parameters will not be guaranteed to meet
+  the requirements. The historical data were also ignored, and only 2019 Zillow data were extracted for accurary purpose.
+  After basically data cleaning, the data from Zillow only keeps the data for Minneapolis-St. Paul-Bloomington metropolitan after 2019, for
+  1B1B apartment prices and house value increasing.
+  Venue data was accquired from https://foursquare.com/, based on the target neighborhoods. The data was grouped for statical analysis in the
+  experimental section.
+  
