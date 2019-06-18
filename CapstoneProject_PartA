@@ -1,8 +1,8 @@
 Introduction
 
 1. Background
-  Relocation has been a serious challenge for people who want to make a decision in a metropolitan area, in 
-  which many factors should be taken into consideration. All those factors have different weights in each 
+  Relocation and house moving have been a serious challenge for people who want to make a decision in a metropolitan 
+  area, in which many factors should be taken into consideration. All those factors have different weights in each 
   different individual, for example, some people care more for the community environment, while some people 
   care more for the prices of homes. After the combination of those different factors, the final choice could
   vary a lot among each person. Therefore, there’s no way to develop a standard or universal way to find the 
@@ -10,3 +10,12 @@ Introduction
   investigated with data analysis process. By exploring the data from public resources, including Zillow and 
   Foursquare, such analysis will lead to a customized result to be provided to meet customers’ interest and 
   requirement to the utmost extent.
+2. Problem
+  In the house moving and relocation analysis, many people care about the community location and the environment
+  arount it. Also, prices is an important factor for house purchase. The problem is to find the optimized choice among
+  many neighborhoods based on the current interested parameters, by applying clusters and performing data analysis.
+3. Interest
+  In this project, the neighborhoods around Minneapolis-St. Paul-Bloomington metropolitan will be analyzed from 
+  venue types, prices and home value increasing percentage for the future, and the analysis will result in a relocation
+  reference to a customer pre-assuming to move from St. Paul to Minneapolis as an example.
+
